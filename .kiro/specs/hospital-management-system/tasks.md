@@ -138,7 +138,9 @@
     - Build payment summary reports
     - _Requirements: 3.3, 3.4_
 
-- [-] 6. Build Pharmacy Management Module
+- [x] 6. Build Pharmacy Management Module
+
+
 
 
 
@@ -169,7 +171,9 @@
     - Build alert dashboard display
     - _Requirements: 4.3, 4.4_
 
-  - [ ] 6.4 Create purchase management
+  - [x] 6.4 Create purchase management
+
+
     - Implement medicine purchase recording
     - Write inventory update logic for purchases
     - Create supplier management system
